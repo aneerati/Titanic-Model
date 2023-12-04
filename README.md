@@ -8,6 +8,3 @@ This model uses a Random Forest Regression AI Model to predict the survivability
 `src`: contains all code files related to the model and data manipulation
 
 `titanic`: contains all the csv files that are used to train the model and predict outcomes
-
-## Version Logs
-v1.0.0 - Basic Random Forest Regression model (77.511% accuracy)
